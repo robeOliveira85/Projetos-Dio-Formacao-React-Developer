@@ -1,0 +1,25 @@
+## Criando o Seu Blog Pessoal Com Next.js
+Por: Roberto Oliveira
+
+- Typescript;
+- Styled-components com configuração customizada no babel + validação de condicional para definição de estilo, repassado via props;
+- Variáveis de ambiente;
+- Estrutura modular (fácil manutenção), com divisão de função, serviços e componentes;
+- Utilização do serviço Supabase para banco de dados;
+- Axios para requisição;
+- ContextAPI;
+- React Icons.
+
+
+
+### Plugins
+
+```
+npm i styled-components
+npm i @types/styled-components
+npm i react-icons
+npm i babel-plugin-styled-components
+npm i axios
+
+```
+
